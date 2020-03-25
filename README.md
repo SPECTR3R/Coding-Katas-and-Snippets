@@ -1,1 +1,1 @@
-# Half-Diamond-Asterisk-Pattern-in-JS-using-a-single-forEach-Iterator
+# Half Diamond Asterisk Pattern in JS using a single forEach Iterator
