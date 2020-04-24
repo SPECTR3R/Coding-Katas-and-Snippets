@@ -1,1 +1,1 @@
-# Half Diamond Asterisk Pattern in JS using a single forEach Iterator
+# This repo is intended to have quick access to useful code
