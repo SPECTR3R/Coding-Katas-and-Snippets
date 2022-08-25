@@ -1,9 +1,8 @@
-// Half diamond star pattern
+// Half diamond star pattern using a forEach iterator
 
 let printStars = howMany => console.log(' *'.repeat(howMany));
 
-
-[1, 2, 3, 4, 5, 6, 7].forEach(function (num, it, arr) {
+[1, 2, 3, 4, 5, 6, 7].forEach((num, it, arr) => {
   let p = Math.round(arr.length / 2) - 1;
   if (it < p) {
     printStars(arr[it] + num - 1);
